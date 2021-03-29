@@ -1,7 +1,3 @@
-
-
-**Here are some ideas to get you started:**
-
 - 🔭 I’m currently working on my own Shop.
 - 🌱 I’m currently learning JavaScript && Front End.
 - 📫 How to reach me: gabrielfernandessilva.ba@gmail.com
