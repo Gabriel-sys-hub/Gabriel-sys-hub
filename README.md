@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on my own Shop.
-- 🌱 I’m currently learning JavaScript && Front End.
+- 🌱 I’m currently learning JavaScript, ReactJs, SCSS.
 - 📫 How to reach me: gabrielfernandessilva.ba@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
