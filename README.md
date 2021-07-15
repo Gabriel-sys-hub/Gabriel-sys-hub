@@ -12,8 +12,6 @@
 - Atualmente estou estudando **React**, **Redux** e conteúdos relacionados
 - Sou apaixonado por **Lógica** e desenvolvo priorizando o **aprimoramento de desempenho** dos compenentes dos meus códigos
 - Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
-- Utilizei o Padrão de Estilização de código da Airbnb nos projetos da Trybe
-- Sei o básico de CSS e estilização de Layout, porém **ainda** não foram prioridade em meus projetos. Mas estão na lista!
 
 ### Tecnologias em que possuo conhecimento
 
