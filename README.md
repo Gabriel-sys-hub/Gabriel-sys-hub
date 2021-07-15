@@ -1,14 +1,30 @@
-- 🔭 I’m currently working on my own Shop.
-- 🌱 I’m currently learning JavaScript, ReactJs, Redux, SCSS.
-- 📫 How to reach me: gabrielfernandessilva.ba@gmail.com
+### Contato
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/mauricio-viegas/) &nbsp;
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](mailto:mvrdgs@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
-  
- 
-**You can find me here:**  
-|  <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|<a href="https://www.linkedin.com/in/gabrielpfernandes/"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="32px" height="32px"></a>
+### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
+- Me chamo Maurício Viegas Rodrigues
+- Sou estudante de Desenvolvimento Web Full Stack na Trybe
 
+### Sobre minha aprendizagem
+- Já passei pelo bloco de **Fundamentos** e estou finalizando o bloco de **Front-End**
+- Utilizei **JavaScript** como linguagem base para meus estudos
+- Atualmente estou estudando **React**, **Redux** e conteúdos relacionados
+- Sou apaixonado por **Lógica** e desenvolvo priorizando o **aprimoramento de desempenho** dos compenentes dos meus códigos
+- Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
+- Utilizei o Padrão de Estilização de código da Airbnb nos projetos da Trybe
+- Sei o básico de CSS e estilização de Layout, porém **ainda** não foram prioridade em meus projetos. Mas estão na lista!
 
-⭐ From [Gabriel-sys-hub](https://github.com/Gabriel-sys-hub)
+### Tecnologias em que possuo conhecimento
+
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/javascript.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/html.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/css.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/react.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/redux.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/jest.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/git.svg)
+![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux.svg)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub)  
+![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=)
