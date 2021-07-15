@@ -3,7 +3,7 @@
 [![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](mailto:mvrdgs@gmail.com)
 
 ### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
-- Me chamo Maurício Viegas Rodrigues
+- Me chamo Gabriel Pimentel Fernandes
 - Sou estudante de Desenvolvimento Web Full Stack na Trybe
 
 ### Sobre minha aprendizagem
