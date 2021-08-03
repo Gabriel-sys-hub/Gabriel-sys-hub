@@ -1,7 +1,15 @@
 ### Contato
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/mauricio-viegas/) &nbsp;
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](mailto:mvrdgs@gmail.com)
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/gabrielpfernandes/) &nbsp;
+[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](gabrielfernandessilva.ba@gmail.com)
 
+# Quem sou eu
+---
+Boas-vindas ao meu perfil, meu nome é Gabriel Pimentel Fernandes, tenho  26 anos e sou uma pessoa que não desiste fácil de nada, em busca de conhecimento e novas experiências.
+Já trabalhei como fotografo e designer, como pequeno empreendedor e estou adentrando nessa área de tecnologia.
+Sou estudante de Desenvolvimento  Web na Trybe, da turma 11 desde março de 2021.  Apaixonado por esportes, música e família. Busco me envolver em projetos que impactam positivamente a vida das pessoas e agregam valor para gerações futuras.
+
+https://github.com/Gabriel-sys-hub
+---
 ### Olá, bem-vindos e bem-vindas ao meu GitHub 👋
 - Me chamo Gabriel Pimentel Fernandes
 - Sou estudante de Desenvolvimento Web Full Stack na Trybe
