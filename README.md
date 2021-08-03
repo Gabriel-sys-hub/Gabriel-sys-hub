@@ -7,9 +7,6 @@
 - Sou estudante de Desenvolvimento Web Full Stack na Trybe
 
 ### Sobre minha aprendizagem
-- Já passei pelo bloco de **Fundamentos** e estou finalizando o bloco de **Front-End**
-- Utilizei **JavaScript** como linguagem base para meus estudos
-- Atualmente estou estudando **React**, **Redux** e conteúdos relacionados
 - Sou apaixonado por **Lógica** e desenvolvo priorizando o **aprimoramento de desempenho** dos compenentes dos meus códigos
 - Sempre busco aprender maneiras de manter meus códigos mais **limpos** e **organizados**
 
