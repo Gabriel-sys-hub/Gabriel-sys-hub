@@ -1,6 +1,5 @@
 ### Contato
 [![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/lkdin.svg)](https://www.linkedin.com/in/gabrielpfernandes/) &nbsp;
-[![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/gmail.svg)](gabrielfernandessilva.ba@gmail.com)
 
 # Quem sou eu
 ---
