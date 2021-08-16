@@ -1,7 +1,4 @@
-### Contato
-[![image](https://www.linkedin.com/in/gabrielpfernandes/) &nbsp;
-
-# Quem sou eu
+<h1 text-align="center"> Quem sou eu </h1>
 ---
 Boas-vindas ao meu perfil, meu nome é Gabriel Pimentel Fernandes, tenho  26 anos e sou uma pessoa que não desiste fácil de nada, em busca de conhecimento e novas experiências.
 Já trabalhei como fotografo e designer, como pequeno empreendedor e estou adentrando nessa área de tecnologia.
