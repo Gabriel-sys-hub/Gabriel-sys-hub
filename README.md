@@ -1,5 +1,5 @@
 ### Contato
-[![image](https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png)](https://www.linkedin.com/in/gabrielpfernandes/) &nbsp;
+[![image](https://www.linkedin.com/in/gabrielpfernandes/) &nbsp;
 
 # Quem sou eu
 ---
