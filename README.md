@@ -6,7 +6,7 @@
 
 <h1 text-align="center"> Quem sou eu </h1>
 
-Boas-vindas ao meu perfil, meu nome é Gabriel Pimentel Fernandes, tenho  26 anos e sou uma pessoa que não desiste fácil de nada, em busca de conhecimento e novas experiências.
+Tenho 26 anos e sou uma pessoa super determinada, em busca de conhecimento e novas experiências.
 Já trabalhei como fotografo e designer, como pequeno empreendedor e estou adentrando nessa área de tecnologia.
 Sou estudante de Desenvolvimento  Web na Trybe, da turma 11 desde março de 2021.  Apaixonado por esportes, música e família. Busco me envolver em projetos que impactam positivamente a vida das pessoas e agregam valor para gerações futuras.
 
