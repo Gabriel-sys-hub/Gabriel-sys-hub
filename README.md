@@ -26,4 +26,4 @@ Sou estudante de Desenvolvimento  Web na Trybe, da turma 11 desde março de 2021
 ![image](https://github.com/mvrdgs/mvrdgs/blob/main/Logos/linux.svg)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub)  
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=)
