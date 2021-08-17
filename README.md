@@ -33,10 +33,10 @@
 <h2> :chart: &nbsp;GitHub Stats </h2>
 
 <a  href="https://github.com/Gabriel-sys-hub">
-  <img  height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub">
+  <img  height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub">
 </a>
 <a  href="https://github.com/Gabriel-sys-hub">
-  <img  height="190em"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=">
+  <img  height="220em"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=">
 </a>
 
   
