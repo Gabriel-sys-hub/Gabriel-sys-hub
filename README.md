@@ -12,7 +12,8 @@
 
 <h3>🌐 &nbsp; Web Technologies<h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)&nbsp;![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;![NodeJS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+
 
 
 
@@ -31,10 +32,10 @@
   
 <h2> :chart: &nbsp;GitHub Stats </h2>
 
-<a  href="https://github.com/iurimp91">
+<a  href="https://github.com/Gabriel-sys-hub">
   <img  height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub">
 </a>
-<a  href="https://github.com/iurimp91">
+<a  href="https://github.com/Gabriel-sys-hub">
   <img  height="160em"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=">
 </a>
 
