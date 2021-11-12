@@ -1,11 +1,11 @@
-<h1> Hey there! Welcome to my GitHub! </h1>
+<h1> Oi! Seja bem vindo ao meu GitHub! </h1>
 
 
-<h2>  &nbsp;About Me </h2>
+<h2>  &nbsp;Sobre mim </h2>
 
-- 👨‍💻 🌐 &nbsp; Studying on Trybe to become a Full Stack Developer;
+- 👨‍💻 🌐 Front-end developer, apaixonado por tecnologia, amante da natureza, carismatico e ama estar em familia;
 
-- 🎮 ⚽  &nbsp; I like to play video games, football and stay with my family on my free time;
+- 🎮 ⚽  &nbsp; Gosto de jogar nas horas vagas, estudar, conversar com amigos, assistir filmes, sorrir...;
 
 
 <h2>🛠 &nbsp;Tech Stack</h2>
