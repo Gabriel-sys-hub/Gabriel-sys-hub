@@ -4,8 +4,8 @@
 <h2>  &nbsp;Sobre mim </h2>
 
 - 👨‍💻 🌐 Front-end developer, apaixonado por tecnologia, amante da natureza, carismatico e ama estar em familia;
-- 🌐 🌐 Cursando Análise e Desenvolvimento de Sistemas na Estácio;
-- 🎮 ⚽ &nbsp; Gosto de jogar nas horas vagas, estudar, conversar com amigos, assistir filmes, sorrir...;
+- 🌐 ⚙️ Cursando Análise e Desenvolvimento de Sistemas na Estácio;
+- 🎮 ⚽ Gosto de jogar nas horas vagas, estudar, conversar com amigos, assistir filmes, sorrir, estar com a familia;
 
 
 <h2>🛠 &nbsp;Stacks</h2>
