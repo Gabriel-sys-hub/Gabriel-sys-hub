@@ -17,7 +17,7 @@
 
 
 
-<h3>⚙️&nbsp; Ferramentas de Versionamento</h3>
+<h3>⚙️&nbsp; Ferramentas de Versionamento.</h3>
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
