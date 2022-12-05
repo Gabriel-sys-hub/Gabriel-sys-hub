@@ -4,7 +4,7 @@
 <h2>  &nbsp;Sobre mim </h2>
 
 - 👨‍💻 🌐 Front-end developer, apaixonado por tecnologia, amante da natureza, carismatico e ama estar em familia;
-- 🌐 ⚙️ Cursando Análise e Desenvolvimento de Sistemas na Estácio e finalizando o curso de Desenvolvimento Fullstack na Trybe;
+- 🌐 ⚙️ Cursando Análise e Desenvolvimento de Sistemas na Estácio e Desenvolvedor Front-end;
 - 🎮 ⚽ Gosto de jogar nas horas vagas, estudar, conversar com amigos, assistir filmes, sorrir, estar com a familia;
 
 
