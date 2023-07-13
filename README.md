@@ -17,7 +17,7 @@
 
 <h3>Atualmente estudando:</h3>
 
-Kotlin
+Kotlin![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)&nbsp;
 
 <h3>⚙️&nbsp; Ferramentas de Versionamento.</h3>
 
