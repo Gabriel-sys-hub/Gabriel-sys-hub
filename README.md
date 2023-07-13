@@ -36,25 +36,3 @@
   <a href="https://wa.me/5577998368927" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielfernandessilva.ba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<h1>Hi! Welcome to my GitHub!</h1>
-<h2>&nbsp;About Me</h2>
-👨‍💻 🌐 Front-end developer and technology enthusiast.
-🌐 ⚙️ Currently pursuing a degree in Systems Analysis and Development at Estácio.
-🎮 ⚽ Enjoy playing games, learning new technologies, and constantly challenging myself.
-<h2>🛠 &nbsp;Stacks</h2>
-<h3>🌐 &nbsp;Libraries / Languages</h3>
-HTML5 CSS JavaScript ReactJS NodeJS TypeScript SQL Redux SASS MONGODB FLUTTER DART FIREBASE 
-
-<h3>⚙️ &nbsp;Version Control Tools</h3>
-Git GitHub
-
-<h3>🔧 &nbsp;Development Tools</h3>
-Visual Studio Code
-
-<h2>🤝 &nbsp;Connect with Me or Contact Me! Feel free</h2>
-<div>
-    <a href="https://www.linkedin.com/in/gabrielpfernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://wa.me/5577998368927" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gabrielfernandessilva.ba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
