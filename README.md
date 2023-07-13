@@ -27,18 +27,6 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-
-  
-<h2> :chart: &nbsp;GitHub Status </h2>
-
-<a  href="https://github.com/Gabriel-sys-hub">
-  <img  height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub">
-</a>
-<a  href="https://github.com/Gabriel-sys-hub">
-  <img  height="220em"  src="https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=">
-</a>
-
   
 
 <h2>🤝&nbsp; Conecte comigo ou entre em Contato! Sinta-se livre</h2>
@@ -64,13 +52,6 @@ Git GitHub
 <h3>🔧 &nbsp;Development Tools</h3>
 Visual Studio Code
 
-<h2> :chart: &nbsp;GitHub Status</h2>
-<a href="https://github.com/Gabriel-sys-hub">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-sys-hub">
-</a>
-<a href="https://github.com/Gabriel-sys-hub">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-sys-hub&show_icons=true&theme=">
-</a>
 <h2>🤝 &nbsp;Connect with Me or Contact Me! Feel free</h2>
 <div>
     <a href="https://www.linkedin.com/in/gabrielpfernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
