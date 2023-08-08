@@ -1,4 +1,4 @@
-<h1> Oi! Seja bem vindo ao meu GitHub! </h1>
+<h1> Oi! Seja bem vindo ao meu GitHub! / Hello, welcome to my GitHub profile </h1>
 
 
 <h2>  &nbsp;Sobre mim / About me </h2>
