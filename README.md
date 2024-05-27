@@ -4,7 +4,7 @@
 <h2>  &nbsp;Sobre mim / About me </h2>
 
 - 👨‍💻 🌐 Front-end developer e apaixonado por tecnologia;
-- 🌐 ⚙️ Cursando Análise e Desenvolvimento de Sistemas na Estácio;
+- 🌐 ⚙️ Formado em Analise e Desenvolvimento de sistemas;
 - 🎮 ⚽ Gosto de jogar nas horas vagas, aprender novas tecnologias e sempre me desafiar;
 
 - 👨‍💻 🌐 Front-end developer and technology enthusiast;
