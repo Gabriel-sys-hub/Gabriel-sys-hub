@@ -8,7 +8,7 @@
 - 🎮 ⚽ Gosto de jogar nas horas vagas, aprender novas tecnologias e sempre me desafiar;
 
 - 👨‍💻 🌐 Front-end developer and technology enthusiast;
-- 🌐 ⚙️ Currently pursuing a degree in Systems Analysis and Development at Estácio;
+- 🌐 ⚙️ Degree in Systems Analysis and Development at Estácio;
 - 🎮 ⚽ Enjoy playing games in my free time, learning new technologies, and constantly challenging myself.
 
 
