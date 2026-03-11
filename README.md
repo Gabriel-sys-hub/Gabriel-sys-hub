@@ -17,14 +17,14 @@
 ## 🧑‍💻 Sobre mim / About me
 
 - 🚀 **Front-end Developer** apaixonado por construir interfaces modernas e performáticas
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Estácio
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
 - 🌱 Sempre aprendendo — atualmente focado em **Next.js**, **NestJS** e **Kotlin**
 - 🎮 ⚽ Nas horas vagas: games, futebol e novos desafios em código
 
 <br/>
 
 - 🚀 **Front-end Developer** passionate about building modern, high-performance interfaces
-- 🎓 Degree in **Systems Analysis and Development** at Estácio
+- 🎓 Degree in **Systems Analysis and Development**
 - 🌱 Always learning — currently focused on **Next.js**, **NestJS** and **Kotlin**
 - 🎮 ⚽ Off the clock: games, soccer, and new coding challenges
 
